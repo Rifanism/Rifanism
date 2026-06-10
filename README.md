@@ -86,7 +86,7 @@
 ###
 
 <div align="center">
-  <a href="instagram.com/rrifanism">
+  <a href="instagram.com/r.rifanism">
     <img src="https://skillicons.dev/icons?i=instagram" height="25" alt="instagram logo"  />
   </a>
   <img width="15" />
