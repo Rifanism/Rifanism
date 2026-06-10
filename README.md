@@ -79,18 +79,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="35" alt="npm logo"  />
 </div>
 
----
-
-<h3 align="center">🔗 Get In Touch</h3>
-
-
-<div align="center">
-  <a href="instagram.com/r.rifanism">
-    <img src="https://skillicons.dev/icons?i=instagram" height="25" alt="instagram logo"  />
-  </a>
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=linkedin" height="25" alt="linkedin logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=twitter" height="25" alt="twitter logo"  />
-</div>
-
