@@ -12,7 +12,7 @@
 
 <h3 align="center">💻 Tech Stacks</h3>
 
-<h5 align="left">&lt;/&gt; Programming Languages</h5>
+<h4 align="left">&lt;/&gt; Programming Languages</h5>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo"  />
@@ -30,7 +30,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35" alt="postgresql logo"  />
 </div>
 
-<h5 align="left">🌐 Frameworks</h5>
+<h4 align="left">🌐 Frameworks</h4>
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=kafka" height="35" alt="apachekafka logo"  />
@@ -46,7 +46,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="35" alt="laravel logo"  />
 </div>
 
-<h5 align="left">🛠️ Tools</h5>
+<h4 align="left">🛠️ Tools</h4>
 
 <div align="left">
   <img src="https://cdn.simpleicons.org/neovim/57A143" height="35" alt="neovim logo"  />
