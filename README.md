@@ -12,7 +12,7 @@
 
 <h3 align="center">💻 Tech Stacks</h3>
 
-<h4 align="left">&lt;/&gt; Programming Languages</h5>
+<h4 align="left">&lt;/&gt; Languages</h5>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo"  />
