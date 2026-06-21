@@ -41,9 +41,12 @@
 
 ---
 
-#### 📊 GitHub Stats
+<h3 align="center">📊 GitHub Stats</h3>
+<div align="center">
+
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Rifanism&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
+</div>
 ---
 
 <h3 align="center">🔗 Get In Touch</h3>
