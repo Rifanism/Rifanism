@@ -41,6 +41,11 @@
 
 ---
 
+#### 📊 GitHub Stats
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Rifanism&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+---
+
 <h3 align="center">🔗 Get In Touch</h3>
 <p align="center">
   <a href="https://instagram.com/rrifanism" target="_blank">
