@@ -14,7 +14,7 @@
   <br>
   <br>
 
-  Explore my works at my [**portfolio**](https://rifanhabibi.vercel.app/)
+  Visit my [**portfolio**](https://rifanhabibi.vercel.app/)
 </div>
 
 <div>
