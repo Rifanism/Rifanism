@@ -5,11 +5,11 @@
 <div align="center">
   
   ### Hi, I'm Rif'an
-  Backend Web Developer | Data Engineer | ML Engineer
+  Backend Web Developer | Data Engineer
 
   ---
   
-  A dedicated learner specializing in Data Engineering, ML Engineering, & Backend Web Developing. Currently, I am deep-diving into the world of data architectures and predictive modeling, turning theoretical concepts into hands-on projects.
+  A dedicated learner specializing in Backend Web Development & Data Engineering. Currently, I am deep-diving into the world of data architectures and server-side infrastructures, turning theoretical concepts into hands-on projects.
 
   <br>
   <br>
